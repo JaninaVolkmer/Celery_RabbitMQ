@@ -1,0 +1,4 @@
+amqp==5.1.1
+black==23.1.0
+celery==5.2.7
+Django==4.1.7
